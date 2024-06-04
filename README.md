@@ -1,5 +1,8 @@
-**1.** **An Introduction to Dataset******
- - the data set is
+# NETFLIX SHARE PRICE ANALYSIS
+ - In this analytical report, we delve into Netflix's stock prices, utilizing a
+comprehensive dataset spanning from 2023 to 2024. This introductory section provides a brief
+overview of the dataset, its source, contents, and outlines the analytical approach employed for
+the exploratory data analysis (EDA)
 
 **Source of Data**
 - The data was sourced from Yahoo Finance using the pandas data reader library in Python, ensuring accuracy and reliability in representing Netflix's stock performance.
