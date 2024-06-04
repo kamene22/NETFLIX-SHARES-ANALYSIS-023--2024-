@@ -119,10 +119,10 @@ Conclusion
 ### Linear Regression
 
 So, I will be using Linear Regression and since we have multiple input featurs the formula will be:
-f(w , b) ( x)=w⋅ x+b=w1x1+w2x2+…+wnxn+b
-Here:
-f(w, b) = Representation of prediction made by Linear Regression
-w = weights assigned to each coefficient
-b = Bias Term/Intercept term
-x = input features where x1, x2, . .. , xn denotes individual features
-w1, ,. . .,wn = weights assigned to each feature
+- f(w , b) ( x)=w⋅ x+b=w1x1+w2x2+…+wnxn+b
+- Here:
+- f(w, b) = Representation of prediction made by Linear Regression
+- w = weights assigned to each coefficient
+- b = Bias Term/Intercept term
+- x = input features where x1, x2, . .. , xn denotes individual features
+- w1, ,. . .,wn = weights assigned to each feature
